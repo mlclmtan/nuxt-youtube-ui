@@ -4,6 +4,7 @@
   - Pug
   - Scss (with loader)
 - Github Actions CI/CD to Github Pages using [push-dir](https://github.com/L33T-KR3W/push-dir)
+- Responsive design for mobile (RWD)
 
 ## Build Setup
 ```bash
