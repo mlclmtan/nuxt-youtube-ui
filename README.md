@@ -3,7 +3,7 @@
 - Pre-processors
   - Pug
   - Scss (with loader)
-- Deployed to Github Pages using [push-dir](https://github.com/L33T-KR3W/push-dir)
+- Github Actions CI/CD to Github Pages using [push-dir](https://github.com/L33T-KR3W/push-dir)
 
 ## Build Setup
 ```bash
